@@ -2,6 +2,7 @@
 
 test [link](pages/test1)
 
+{{
 {% assign mydocs = site.docs | group_by: 'category' %}
 {% for cat in mydocs %}
 <h2>{{ cat.name | capitalize }}</h2>
@@ -12,3 +13,4 @@ test [link](pages/test1)
       {% endfor %}
     </ul>
 {% endfor %}
+}}
