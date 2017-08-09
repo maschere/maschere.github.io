@@ -2,7 +2,7 @@
 theme: jekyll-theme-slate
 title: Hank Quinlan's Blog
 ---
-test4
+test5
 
 ## {{ page.title }}
 
@@ -11,7 +11,7 @@ test4
 
 * {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 
-   {{ post.content | split:'<!--break-->' | strip_html | first }}
+   {{ post.content | strip_html | truncatewords: 3 }}
    
    {% if post.content contains '<!--break-->' %}
    [{{ read more }}]({{ post.url }})
