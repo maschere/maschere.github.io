@@ -7,3 +7,7 @@ layout: post
 ## test1
 
 let' see
+
+<!--break-->
+
+more text after the read more
