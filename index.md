@@ -2,10 +2,9 @@
 theme: jekyll-theme-slate
 title: Hank Quinlan's Blog
 ---
-	<h1>{{ page.title }}</h1>
-	<ul>
+	##{{ page.title }}
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    * {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 	  {% endfor %}
-	</ul>
+
