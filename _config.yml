@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+title: maschere's blog
