@@ -2,7 +2,7 @@
 theme: jekyll-theme-slate
 title: Hank Quinlan's Blog
 ---
-test7
+test8
 
 ## {{ page.title }}
 
@@ -12,7 +12,6 @@ test7
 * {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 
    {{ post.content | strip_html | truncatewords: 3 }}
-   
    [{{ read more }}]({{ post.url }})
 
 
