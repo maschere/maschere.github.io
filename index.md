@@ -11,7 +11,7 @@ test3
 
 * {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 
-   {{ post.content | split:'<!--break-->' | first }}
+   {{ post.content | split:'<!--break-->' | strip_html | first }}
    
    {% if post.content contains '<!--break-->' %}
    [{{ read more }}]({{ post.url }})
