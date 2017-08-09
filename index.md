@@ -8,7 +8,8 @@ test13
 {% for post in posts %}
 
 ### [{{ post.title }}]({{ post.url }})
-{{ post.date | date_to_string }}
+<p style: "line-height: 50%;">{{ post.date | date_to_string }}</p>
+
 {{ post.content | strip_html | truncatewords: 3 }} [read more]({{ post.url }})
 
 ___
