@@ -2,7 +2,7 @@
 theme: jekyll-theme-slate
 title: Hank Quinlan's Blog
 ---
-test5
+test6
 
 ## {{ page.title }}
 
@@ -13,9 +13,8 @@ test5
 
    {{ post.content | strip_html | truncatewords: 3 }}
    
-   {% if post.content contains '<!--break-->' %}
    [{{ read more }}]({{ post.url }})
-   {% endif %}
+
 
 {% endfor %}
 
