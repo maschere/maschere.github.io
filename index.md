@@ -2,7 +2,7 @@
 theme: jekyll-theme-slate
 title: Hank Quinlan's Blog
 ---
-test1
+test2
 
 ## {{ page.title }}
 
