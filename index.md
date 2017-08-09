@@ -1,4 +1,4 @@
 ## Welcome
 
-test [link](https://github.com/maschere/maschere/edit/master/README.md)
+test [link](README.html)
 
