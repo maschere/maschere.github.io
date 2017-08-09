@@ -2,11 +2,11 @@
 theme: jekyll-theme-slate
 title: Hank Quinlan's Blog
 ---
-test6
+test7
 
 ## {{ page.title }}
 
-{% assign posts = site.posts | sort: 'date' %}
+{% assign posts = (site.posts | sort: 'date') | reverse %}
 {% for post in posts %}
 
 * {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
