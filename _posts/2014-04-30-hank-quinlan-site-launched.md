@@ -1,5 +1,5 @@
 ---
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "another test entry"
 date: 2014-04-30
 layout: post
 ---
