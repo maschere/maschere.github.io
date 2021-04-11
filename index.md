@@ -1,7 +1,6 @@
 ---
 theme: jekyll-theme-slate
 ---
-test17
 
 {% assign posts = (site.posts | sort: 'date') | reverse %}
 {% for post in posts %}
