@@ -8,7 +8,7 @@ theme: jekyll-theme-slate
 ### [{{ post.title }}]({{ post.url }})
 <p style='line-height: 1%;'>{{ post.date | date_to_string }}</p>
 <br>
-{{ post.content | strip_html | truncatewords: 100 }} [read more]({{ post.url }})
+{{ post.content | truncatewords: 100 }} [read more]({{ post.url }})
 
 ___
 <br><br>
