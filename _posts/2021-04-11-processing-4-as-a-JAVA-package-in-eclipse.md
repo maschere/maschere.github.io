@@ -8,19 +8,19 @@
 
 - Create a new JavaSE-11 project
   
-![JavaSE-11](/imgs/eclipse/ecplipse1.png "JavaSE-11")
+![JavaSE-11](/imgs/eclipse/eclipse1.png "JavaSE-11")
 
 - Configure build paths
   
-![build paths](/imgs/eclipse/ecplipse2.png "build paths")
+![build paths](/imgs/eclipse/eclipse2.png "build paths")
 
 - select 'Add External JARs...'
 
-![jars](/imgs/eclipse/ecplipse3.png "jars")
+![jars](/imgs/eclipse/eclipse3.png "jars")
 
 - browse to processing/core/library and select all .jar files
 
-![processing/core/library](/imgs/eclipse/ecplipse4.png "processing/core/library")
+![processing/core/library](/imgs/eclipse/eclipse4.png "processing/core/library")
 
 - add a class with the following code as an example
 
