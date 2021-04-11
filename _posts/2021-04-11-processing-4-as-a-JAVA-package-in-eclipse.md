@@ -23,6 +23,7 @@
 ![processing/core/library](/imgs/eclipse/ecplipse4.png "processing/core/library")
 
 - add a class with the following code as an example
+
 ```java
 import processing.core.*; //import processing
 
