@@ -2,9 +2,9 @@
 
 ---
 
-- Download and install Processing 4 (alpha 3 at https://processing.org/download/)
+- Download and install Processing 4 (alpha 3 at <https://processing.org/download/>)
 
-- Download and install current Ecplise IDE (2021-03 at https://www.eclipse.org/downloads/)
+- Download and install current Ecplise IDE (2021-03 at <https://www.eclipse.org/downloads/>)
 
 - Create a new JavaSE-11 project
   
