@@ -6,4 +6,5 @@ title: maschere's blog
 BASE_PATH : /
 kramdown:
   math_engine: mathjax
+  input: GFM
   syntax_highlighter: rouge
