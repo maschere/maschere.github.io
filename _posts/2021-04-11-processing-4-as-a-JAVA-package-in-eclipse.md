@@ -1,4 +1,6 @@
-In this short tutorial you will learn to setup a new Eclipse project that imports Processing 4 as a Java package.
+## In this short tutorial you will learn to setup a new Eclipse project that imports Processing 4 as a Java package.
+
+---
 
 - Download and install Processing 4 (alpha 3 at https://processing.org/download/)
 
