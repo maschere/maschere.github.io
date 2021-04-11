@@ -63,6 +63,5 @@ public class HelloWorld extends PApplet {
 	}
 }
 ```
-- Done. You are now ready to use processing within ecplise as you see fit. Happy coding.
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+- Done. You are now ready to use processing within ecplise as you see fit. Happy coding.
