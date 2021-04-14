@@ -1,9 +1,16 @@
+plugins:
+  - jekyll-feed
 theme: jekyll-theme-slate
 name: maschere's blog
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+timezone: Europe/Berlin
 title: maschere's blog
+subtitle: data, science, art
+description: data, science, art
+author: Maximilian Scherer
 BASE_PATH : /
+exclude: ['bin', 'README.md']
 kramdown:
   math_engine: mathjax
   input: GFM
