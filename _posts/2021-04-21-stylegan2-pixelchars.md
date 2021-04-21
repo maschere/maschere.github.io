@@ -3,6 +3,7 @@
 ![detail crop](/imgs/ganchar/fakes000020detail.jpg "detail crop")
 
 ---
+<!--more-->
 
 I finetuned NVIDIA's FFHQ256 Stylegan2-ada-pytorch model by showing it only about 20.000 instances of 64x64 pixel characters (upsampled to 256x256). This took around 30 minutes on Colab. Here are some more (uncurated) results.
 
