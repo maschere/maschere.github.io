@@ -1,6 +1,6 @@
 ## Unreal Engine 5 runtime interop with Python in real-time using TCP sockets
 
-<video width="450" height="300" controls>
+<video width="450" height="300" controls autoplay muted>
   <source type="video/mp4" src="/videos/ue5-python-interop.mp4">
 </video>
 
