@@ -13,17 +13,17 @@ To evaluate the fitness -- that is deciding if the picture of one individuum ful
 Depending on the actual painting capabilities on the individuum, this process does not generate highly realistic examples of the target class. Rather it produces adversarial examples that look like the target class to the neural network, but most likely not to the human eye. Visually pleasing results can be obtained nevertheless. Have a look.
 
 Starting with a blank image:
-<video width="600" height="400" controls autoplay muted loop>
+<video width="400" height="400" controls autoplay muted loop>
   <source type="video/mp4" src="/videos/genGen1.mp4">
 </video>
 
 Another variation:
-<video width="600" height="400" controls autoplay muted loop>
+<video width="400" height="400" controls autoplay muted loop>
   <source type="video/mp4" src="/videos/genGen1.mp4">
 </video>
 
 Starting with random [Bob Ross](https://github.com/jwilber/Bob_Ross_Paintings) images:
-<video width="600" height="400" controls autoplay muted loop>
+<video width="400" height="400" controls autoplay muted loop>
   <source type="video/mp4" src="/videos/ross.mp4">
 </video>
 
