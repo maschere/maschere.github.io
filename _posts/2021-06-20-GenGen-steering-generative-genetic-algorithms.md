@@ -19,7 +19,7 @@ Starting with a blank image:
 
 Another variation:
 <video width="400" height="400" controls autoplay muted loop>
-  <source type="video/mp4" src="/videos/genGen1.mp4">
+  <source type="video/mp4" src="/videos/genGen2.mp4">
 </video>
 
 Starting with random [Bob Ross](https://github.com/jwilber/Bob_Ross_Paintings) images:
@@ -27,4 +27,4 @@ Starting with random [Bob Ross](https://github.com/jwilber/Bob_Ross_Paintings) i
   <source type="video/mp4" src="/videos/ross.mp4">
 </video>
 
-Source code in the form of a Colab notebook is available at https://github.com/maschere/public-jupyter/blob/master/genGen.ipynb
+Source code in the form of a Colab notebook is available at [https://github.com/maschere/public-jupyter/blob/master/genGen.ipynb](https://github.com/maschere/public-jupyter/blob/master/genGen.ipynb)
