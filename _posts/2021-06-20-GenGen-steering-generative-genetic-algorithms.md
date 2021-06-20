@@ -2,7 +2,6 @@
 title: "GenGen: Steering Generative Genetic Algorithms"
 ---
 ## GenGen: Steering Generative Genetic Algorithms
-
 ![gengengif](/imgs/gengen.gif "gengengif")
 
 ---
