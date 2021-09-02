@@ -2,9 +2,7 @@
 title: "Epic MegaJam 2021: Day 1 #UnrealJam"
 ---
 ## Epic MegaJam 2021: Day 1
-
-First ideas, story concept, DLSS and more
-
+### First ideas, story concept, DLSS and more
 ![2021 Epic MegaJam](https://img.itch.zone/aW1nLzY2NjA3NTUucG5n/original/dg2jZN.png "2021 Epic MegaJam #UnrealJam")
 ---
 

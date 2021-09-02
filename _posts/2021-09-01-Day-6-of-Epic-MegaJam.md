@@ -2,9 +2,7 @@
 title: "Epic MegaJam 2021: Day 6 #UnrealJam"
 ---
 ## Epic MegaJam 2021: Day 6
-
 ### Game is ready
-
 ![The Scene](/imgs/megajam21/title.jpg "The Scene")
 
 ---
